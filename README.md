@@ -1,4 +1,4 @@
-# Laravel Modules With Livewire
+# Laravel With Livewire
 
 Using [Laravel Livewire](https://github.com/livewire/livewire) 
 <p align="center">
